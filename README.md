@@ -16,4 +16,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Revelador de destino é uma página no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Projeto desenvolvido com base no Maratona Explorer 2022 da Rocketseat.
 
-Você pode acessar o projeto através [desse link](https://andresa-alves-ribeiro.github.io/Revelador-de-destino/). 
+## 🖥️ Como visualizar meu projeto?
+
+Você pode acessar o link abaixo e visualizar o deploy:
+
+https://andresa-alves-ribeiro.github.io/Revelador-de-destino/
+
+---
+
+<p align="center">
+  Feito com ♥ by Andresa A Ribeiro :wave:
+</p>
